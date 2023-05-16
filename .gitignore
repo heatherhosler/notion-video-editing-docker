@@ -1,0 +1,10 @@
+*.mp4
+*.gif
+*.png
+
+node_modules
+build
+package-lock.json
+RunDocker*
+BuildDocker.bat
+.env
